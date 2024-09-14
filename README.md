@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Data Analysis of Shopping Malls in Istanbul, Turkey
+# 🛒 Exploratory Data Analysis on Retail Sales Data
 
 I have used a dataset from Kaggle (public domain) related to the Retail Sales Data collected from 10 different shopping malls in Istanbul, Turkey.
 
