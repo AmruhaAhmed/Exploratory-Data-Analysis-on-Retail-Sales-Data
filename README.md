@@ -1,6 +1,8 @@
 # 🛒 Exploratory Data Analysis on Retail Sales Data
 
 I have used a dataset from Kaggle (public domain) related to the Retail Sales Data collected from 10 different shopping malls in Istanbul, Turkey.
+![image](https://github.com/user-attachments/assets/06136fa9-8b72-44a1-93d5-1b0d1b0cc888)
+
 
 ### 📁 Link to the dataset:
 [Kaggle - Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
